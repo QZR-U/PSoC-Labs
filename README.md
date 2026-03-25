@@ -1,3 +1,2 @@
 # PSoC-Labs
-EN: Repository with laboratory works created in PSoC Creator.
-UA: Лабораторні роботи створені у PSoC Creator.
+Лабораторні роботи 1-5 у PSoC Creator.
